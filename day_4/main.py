@@ -35,7 +35,7 @@ computer_choice = random.randint(0, 2)
 print(f"Computer: \n {options[computer_choice]}")
 
 if player_choice == computer_choice:
-    print("Drawn! -_-")
+    print("Draw! -_-")
 elif player_choice == 0:
     if computer_choice == 1:
         print("You Lose! :(")
