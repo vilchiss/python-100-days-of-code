@@ -8,3 +8,4 @@ Proyectos realizados para el curso de Python 100 days of code.
 3. Donkey Island
 4. Rock Paper Scissors
 5. PyPassword Generator
+6. Scaping The Maze
