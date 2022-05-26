@@ -9,3 +9,4 @@ Proyectos realizados para el curso de Python 100 days of code.
 4. Rock Paper Scissors
 5. PyPassword Generator
 6. Scaping The Maze
+7. Hangman
