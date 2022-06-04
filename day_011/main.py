@@ -24,13 +24,6 @@ def get_card():
 
     return random.choice(cards) 
 
-def format_cards(cards):
-    text = ''
-    for card in cards:
-        text += f' [{card}]'
-
-    return text
-
 def get_points(player):
     return sum([c[0] for c in player])
 
